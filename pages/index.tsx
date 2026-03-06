@@ -41,9 +41,8 @@ const Home = ({ publisher }: HomeProps) => {
 
           <p className="mx-auto mt-6 max-w-lg text-[15px] leading-relaxed text-white/50">
             Built with{" "}
-            <strong className="text-white">Publive CMS</strong>
-            <strong className="text-white">high-quality content sites</strong>{" "}
-            with the power of Next.js.
+            <strong className="text-white">Publive CMS</strong> <br/>
+            high-quality content sites with the power of Next.js.
           </p>
 
           <div className="mt-8 flex items-center justify-center gap-3">
