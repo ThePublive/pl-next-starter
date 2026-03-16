@@ -33,7 +33,7 @@
 		"prod": {
 			"name": "pl-next-starter",
 			"vars": {
-				"NEXT_PUBLIC_PL_ENVIRONMENT": "beta",
+				"NEXT_PUBLIC_PL_ENVIRONMENT": "production",
 				"NEXT_PUBLIC_APP_URL": "",
 				"NEXT_PUBLIC_PL_PUBLISHER_ID": "",
 				"NEXT_PUBLIC_PL_PUBLISHER_API_KEY": "",
